@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'filesize'
+gem 'term-ansicolor'
+gem 'clipboard'
+gem 'sqlite3'
+gem 'activerecord'
